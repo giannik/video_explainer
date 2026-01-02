@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "CBjgQefmgTM=",
+  "success": true,
+  "projectFilePath": "/home/runner/work/video_explainer/video_explainer/VideoExplainer.NET/src/VideoExplainer.CLI/VideoExplainer.CLI.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.extensions.configuration/10.0.1/microsoft.extensions.configuration.10.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.1/microsoft.extensions.configuration.abstractions.10.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.configuration.binder/10.0.1/microsoft.extensions.configuration.binder.10.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.configuration.fileextensions/10.0.1/microsoft.extensions.configuration.fileextensions.10.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.configuration.json/10.0.1/microsoft.extensions.configuration.json.10.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.1/microsoft.extensions.dependencyinjection.10.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.1/microsoft.extensions.dependencyinjection.abstractions.10.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.diagnostics/10.0.1/microsoft.extensions.diagnostics.10.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.diagnostics.abstractions/10.0.1/microsoft.extensions.diagnostics.abstractions.10.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.fileproviders.abstractions/10.0.1/microsoft.extensions.fileproviders.abstractions.10.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.fileproviders.physical/10.0.1/microsoft.extensions.fileproviders.physical.10.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.filesystemglobbing/10.0.1/microsoft.extensions.filesystemglobbing.10.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.http/10.0.1/microsoft.extensions.http.10.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.logging/10.0.1/microsoft.extensions.logging.10.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.1/microsoft.extensions.logging.abstractions.10.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.options/10.0.1/microsoft.extensions.options.10.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.options.configurationextensions/10.0.1/microsoft.extensions.options.configurationextensions.10.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/microsoft.extensions.primitives/10.0.1/microsoft.extensions.primitives.10.0.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/spectre.console/0.54.0/spectre.console.0.54.0.nupkg.sha512",
+    "/home/runner/.nuget/packages/system.commandline/2.0.0-beta4.22272.1/system.commandline.2.0.0-beta4.22272.1.nupkg.sha512",
+    "/home/runner/.nuget/packages/yamldotnet/16.3.0/yamldotnet.16.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+/home/runner/work/video_explainer/video_explainer/VideoExplainer.NET/src/VideoExplainer.Core/bin/Debug/net10.0/VideoExplainer.Core.deps.json
+/home/runner/work/video_explainer/video_explainer/VideoExplainer.NET/src/VideoExplainer.Core/bin/Debug/net10.0/VideoExplainer.Core.dll
+/home/runner/work/video_explainer/video_explainer/VideoExplainer.NET/src/VideoExplainer.Core/bin/Debug/net10.0/VideoExplainer.Core.pdb
+/home/runner/work/video_explainer/video_explainer/VideoExplainer.NET/src/VideoExplainer.Core/obj/Debug/net10.0/VideoExplainer.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/video_explainer/video_explainer/VideoExplainer.NET/src/VideoExplainer.Core/obj/Debug/net10.0/VideoExplainer.Core.AssemblyInfoInputs.cache
+/home/runner/work/video_explainer/video_explainer/VideoExplainer.NET/src/VideoExplainer.Core/obj/Debug/net10.0/VideoExplainer.Core.AssemblyInfo.cs
+/home/runner/work/video_explainer/video_explainer/VideoExplainer.NET/src/VideoExplainer.Core/obj/Debug/net10.0/VideoExplainer.Core.csproj.CoreCompileInputs.cache
+/home/runner/work/video_explainer/video_explainer/VideoExplainer.NET/src/VideoExplainer.Core/obj/Debug/net10.0/VideoExplainer.Core.sourcelink.json
+/home/runner/work/video_explainer/video_explainer/VideoExplainer.NET/src/VideoExplainer.Core/obj/Debug/net10.0/VideoExplainer.Core.dll
+/home/runner/work/video_explainer/video_explainer/VideoExplainer.NET/src/VideoExplainer.Core/obj/Debug/net10.0/refint/VideoExplainer.Core.dll
+/home/runner/work/video_explainer/video_explainer/VideoExplainer.NET/src/VideoExplainer.Core/obj/Debug/net10.0/VideoExplainer.Core.pdb
+/home/runner/work/video_explainer/video_explainer/VideoExplainer.NET/src/VideoExplainer.Core/obj/Debug/net10.0/ref/VideoExplainer.Core.dll
