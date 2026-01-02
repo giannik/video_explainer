@@ -75,3 +75,24 @@ animations/src/**/*.meta
 tmp/
 temp/
 *.tmp
+
+# .NET
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+[Dd]ebug/
+[Rr]elease/
+[Aa]rtifacts/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+*.cache
+*.dll
+*.exe
+*.pdb
+!VideoExplainer.NET/README.md
